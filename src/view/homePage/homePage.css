@@ -1,0 +1,10 @@
+.formHolder{
+    max-width: 800px;
+    margin: 5em auto;
+}
+.spinner{
+    position: absolute !important;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
